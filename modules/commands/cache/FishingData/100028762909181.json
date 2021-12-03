@@ -1,0 +1,66 @@
+{
+    "fishingrod": {
+        "rodType": 6,
+        "enchantRod": {},
+        "rodName": "Diamond fishing rod",
+        "cooldownTime": 10,
+        "durabilityDefault": 1200,
+        "durability": -58,
+        "moneyFix": 649,
+        "rateBroken": [
+            10,
+            250
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1630097566,
+    "point": 7117,
+    "totalMoney": 0,
+    "totalCatch": 70
+}

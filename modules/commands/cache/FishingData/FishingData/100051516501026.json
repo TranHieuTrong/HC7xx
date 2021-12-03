@@ -1,0 +1,96 @@
+{
+    "fishingrod": {
+        "rodType": 1,
+        "enchantRod": {},
+        "rodName": "Wooden fishing rod",
+        "cooldownTime": 60,
+        "durabilityDefault": 100,
+        "durability": 65,
+        "moneyFix": 16,
+        "rateBroken": [
+            16,
+            50
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Sea Bass",
+            "rarity": "Very Common",
+            "price": 40,
+            "size": [
+                90,
+                110
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1629114875,
+    "point": 40,
+    "totalMoney": 0,
+    "totalCatch": 1
+}

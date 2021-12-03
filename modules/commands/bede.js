@@ -1,0 +1,15 @@
+module.exports.config = {
+  name: "bede",
+  version: "0.0.1",
+  hasPermssion: 0,
+  credits: "SEN",
+  description: "đo độ bê đê",
+  commandCategory: "other",
+  cooldowns: 5
+};
+
+module.exports.run = function({ api, event }) {
+  const data = ["Độ bê đê của bạn là 1%", "Độ bê đê của bạn là 2%", "Độ bê đê của bạn là 3%", "Độ bê đê của bạn là 4%", "Độ bê đê của bạn là 5%", "Độ bê đê của bạn là 6%", "Độ bê đê của bạn là 7%", "Độ bê đê của bạn là 8%", "Độ bê đê của bạn là 9%", "Độ bê đê của bạn là 10%", "Độ bê đê của bạn là 11%", "Độ bê đê của bạn là 12%", "Độ bê đê của bạn là 13%", "Độ bê đê của bạn là 14%", "Độ bê đê của bạn là 15%", "Độ bê đê của bạn là 16%", "Độ bê đê của bạn là 17%", "Độ bê đê của bạn là 18%", "Độ bê đê của bạn là 19%", "Độ bê đê của bạn là 20%", "Độ bê đê của bạn là 21%", "Độ bê đê của bạn là 22%", "Độ bê đê của bạn là 23%", "Độ bê đê của bạn là 24%", "Độ bê đê của bạn là 25%", "Độ bê đê của bạn là 26%", "Độ bê đê của bạn là 27%", "Độ bê đê của bạn là 28%", "Độ bê đê của bạn là 29%", "Độ bê đê của bạn là 30%", "Độ bê đê của bạn là 31%", "Độ bê đê của bạn là 32%", "Độ bê đê của bạn là 33%", "Độ bê đê của bạn là 34%", "Độ bê đê của bạn là 35%", "Độ bê đê của bạn là 36%", "Độ bê đê của bạn là 37%", "Độ bê đê của bạn là 38%", "Độ bê đê của bạn là 39%", "Độ bê đê của bạn là 40%", "Độ bê đê của bạn là 41%", "Độ bê đê của bạn là 42%", "Độ bê đê của bạn là 43%", "Độ bê đê của bạn là 44%", "Độ bê đê của bạn là 45%", "Độ bê đê của bạn là 46%", "Độ bê đê của bạn là 47%", "Độ bê đê của bạn là 48%", "Độ bê đê của bạn là 49%", "Độ bê đê của bạn là 50%", "Độ bê đê của bạn là 51%", "Độ bê đê của bạn là 52%", "Độ bê đê của bạn là 53%", "Độ bê đê của bạn là 54%", "Độ bê đê của bạn là 55%", "Độ bê đê của bạn là 56%", "Độ bê đê của bạn là 57%", "Độ bê đê của bạn là 58%", "Độ bê đê của bạn là 59%", "Độ bê đê của bạn là 60%", "Độ bê đê của bạn là 61%", "Độ bê đê của bạn là 62%", "Độ bê đê của bạn là 63%", "Độ bê đê của bạn là 64%", "Độ bê đê của bạn là 65%", "Độ bê đê của bạn là 66%", "Độ bê đê của bạn là 67%", "Độ bê đê của bạn là 68%", "Độ bê đê của bạn là 69%", "Độ bê đê của bạn là 70%", "Độ bê đê của bạn là 71%", "Độ bê đê của bạn là 72%", "Độ bê đê của bạn là 73%", "Độ bê đê của bạn là 74%", "Độ bê đê của bạn là 75%", "Độ bê đê của bạn là 76%", "Độ bê đê của bạn là 77%", "Độ bê đê của bạn là 78%", "Độ bê đê của bạn là 79%", "Độ bê đê của bạn là 80%", "Độ bê đê của bạn là 81%", "Độ bê đê của bạn là 82%", "Độ bê đê của bạn là 83%", "Độ bê đê của bạn là 84%", "Độ bê đê của bạn là 85%", "Độ bê đê của bạn là 86%", "Độ bê đê của bạn là 87%", "Độ bê đê của bạn là 88%", "Độ bê đê của bạn là 89%", "Độ bê đê của bạn là 90%", "Độ bê đê của bạn là 91%", "Độ bê đê của bạn là 92%", "Độ bê đê của bạn là 93%", "Độ bê đê của bạn là 94%", "Độ bê đê của bạn là 95%", "Độ bê đê của bạn là 96%", "Độ bê đê của bạn là 97%", "Độ bê đê của bạn là 98%", "Độ bê đê của bạn là 99%", "Độ bê đê của bạn là 100%",
+  ];
+  return api.sendMessage(`${data[Math.floor(Math.random() * data.length)]}`, event.threadID, event.messageID);
+}

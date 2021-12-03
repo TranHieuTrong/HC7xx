@@ -1,0 +1,39 @@
+﻿{
+    "items": [{
+        "name": "Flimsy Fishing Rod",
+        "price": 500,
+        "time": 120,
+        "duribility": 10
+    },
+    {
+        "name": "Fishing Rod",
+        "price": 1000,
+        "time": 60,
+        "duribility": 20
+    },
+    {
+        "name": "Fine Fishing Rod",
+        "price": 1500,
+        "time": 30,
+        "duribility": 20
+    },
+    {
+        "name": "Fishing Rod Made In VIETNAM",
+        "price": 100000,
+        "time": 5,
+        "duribility": 2000
+    }
+    {
+        "name": "Fishing Rod Mythical",
+        "price": 123456789,
+        "time": 2,
+        "duribility": 200000
+    }
+    {
+        "name": "Fishing Rod GOD",
+        "price": 999999999,
+        "time": 0,
+        "duribility": 999999999
+    }       
+    ]
+}

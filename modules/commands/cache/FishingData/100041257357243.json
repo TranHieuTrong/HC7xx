@@ -1,0 +1,126 @@
+{
+    "fishingrod": {
+        "rodType": 6,
+        "enchantRod": {},
+        "rodName": "Diamond fishing rod",
+        "cooldownTime": 10,
+        "durabilityDefault": 1200,
+        "durability": 921,
+        "moneyFix": 525,
+        "rateBroken": [
+            10,
+            250
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Loach",
+            "rarity": "Common",
+            "price": 40,
+            "size": [
+                19,
+                21
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Yellow Perch",
+            "rarity": "Common",
+            "price": 30,
+            "size": [
+                33,
+                38
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1630484985,
+    "point": 70,
+    "totalMoney": 0,
+    "totalCatch": 2
+}

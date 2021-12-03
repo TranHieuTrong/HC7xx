@@ -1,0 +1,126 @@
+{
+    "fishingrod": {
+        "rodType": 7,
+        "enchantRod": {},
+        "rodName": "ULTRA ULTIMATE FISHING ROD",
+        "cooldownTime": 5,
+        "durabilityDefault": 1000000000000000,
+        "durability": 999999999996825,
+        "moneyFix": 21793,
+        "rateBroken": [
+            1,
+            10000
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Surgeonfish",
+            "rarity": "Uncommon",
+            "price": 100,
+            "size": [
+                29,
+                34
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Clown Fish",
+            "rarity": "Uncommon",
+            "price": 65,
+            "size": [
+                14,
+                16
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1629219781,
+    "point": 165,
+    "totalMoney": 0,
+    "totalCatch": 2
+}

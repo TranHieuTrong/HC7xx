@@ -1,0 +1,66 @@
+{
+    "fishingrod": {
+        "rodType": 1,
+        "enchantRod": {},
+        "rodName": "Wooden fishing rod",
+        "cooldownTime": 60,
+        "durabilityDefault": 100,
+        "durability": -43,
+        "moneyFix": 27,
+        "rateBroken": [
+            16,
+            50
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1630443949,
+    "point": 780,
+    "totalMoney": 0,
+    "totalCatch": 7
+}

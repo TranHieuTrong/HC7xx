@@ -1,0 +1,126 @@
+{
+    "fishingrod": {
+        "rodType": 2,
+        "enchantRod": {},
+        "rodName": "Stone fishing rod",
+        "cooldownTime": 50,
+        "durabilityDefault": 200,
+        "durability": 97,
+        "moneyFix": 86,
+        "rateBroken": [
+            30,
+            100
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Sea Bass",
+            "rarity": "Very Common",
+            "price": 40,
+            "size": [
+                90,
+                110
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Frog",
+            "rarity": "Common",
+            "price": 12,
+            "size": [
+                12,
+                14
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1630359516,
+    "point": 52,
+    "totalMoney": 0,
+    "totalCatch": 2
+}
